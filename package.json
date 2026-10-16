@@ -2,6 +2,21 @@
   "name": "skilltanki-landing",
   "private": true,
   "version": "1.0.0",
+  "description": "Landing page for SkillTanki — a free browser tank arcade in the spirit of the 2010 classic. No registration, no pay-to-win: 7 hulls, 9 turrets, 101 paints, 91 maps. Built with Next.js and exported as a static site.",
+  "homepage": "https://mobile.skilltanki.workers.dev/",
+  "keywords": [
+    "skilltanki",
+    "tanks",
+    "tank-game",
+    "browser-game",
+    "arcade",
+    "multiplayer",
+    "pwa",
+    "landing-page",
+    "nextjs",
+    "react",
+    "static-site"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
