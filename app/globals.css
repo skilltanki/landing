@@ -1,0 +1,9 @@
+html{scroll-behavior:smooth}
+body{margin:0;background:#0b0d0a;color:#c3c9bb;font-family:Verdana,Geneva,"DejaVu Sans",sans-serif;-webkit-font-smoothing:antialiased}
+a{color:#8fdc8f}
+a:hover{color:#b9f0b9}
+img{max-width:100%}
+.navlink:hover{color:#8fdc8f !important}
+.btn{transition:filter .15s,transform .15s}
+.btn:hover{filter:brightness(1.12);transform:translateY(-1px)}
+.btn:active{transform:translateY(1px)}
