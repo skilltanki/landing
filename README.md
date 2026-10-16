@@ -1,10 +1,8 @@
-# SkillTanki Landing
+<img src="public/assets/logo.webp" height="175px">
 
 Landing page for **SkillTanki**, a free browser tank arcade in the spirit of the 2010 classic. No registration, no pay-to-win, nothing to install.
 
 The site is a single static page built with Next.js and exported as plain HTML, ready to be hosted on GitHub Pages or any static file server.
-
-![SkillTanki](public/assets/logo.webp)
 
 ## Screenshots
 
